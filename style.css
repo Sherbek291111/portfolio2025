@@ -80,6 +80,7 @@ section h2 {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     transition: 0.3s;
     text-align: center;
+    
 }
 
 .project:hover {
@@ -90,6 +91,7 @@ section h2 {
     width: 100%;
     border-radius: 10px;
     margin-bottom: 15px;
+    
 }
 
 /* CONTACT FORM */
