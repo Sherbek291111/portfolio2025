@@ -140,3 +140,8 @@ footer {
     margin-top: 50px;
     font-size: 0.9rem;
 }
+.project a {
+    color: #0078ff;
+    text-decoration: none;
+    font-style: bold;
+}
